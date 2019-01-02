@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoxyMVPPattern</string>
+    <string name="fragment_00">Фрагмент 1</string>
+    <string name="fragment_01">Фрагмент 2</string>
+    <string name="fragment_02">Фрагмент 3</string>
+    <string name="Add">Добавить</string>
+    <string name="Update">Обновить</string>
+    <string name="Delete">Удалить</string>
+    <string name="TextOut">Ну и что там</string>
+    <string name="posthint">post something</string>
+</resources>
